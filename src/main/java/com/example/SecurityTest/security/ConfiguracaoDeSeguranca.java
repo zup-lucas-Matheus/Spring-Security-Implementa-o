@@ -21,5 +21,4 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 public class ConfiguracaoDeSeguranca extends WebSecurityConfigurerAdapter {
 
 
-
 }
